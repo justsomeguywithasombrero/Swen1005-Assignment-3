@@ -32,5 +32,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Operating the site
 
-- On mobile you operate the website theough left and right swiping.
+- On mobile you operate the website through left and right swiping.
 - On desktop you can interface via buttons.
