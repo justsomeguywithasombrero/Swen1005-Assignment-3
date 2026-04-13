@@ -38,5 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Operating the site
 
-On mobile you operate the website theough left and right swiping.
-On desktop you can interface via buttons.
+- On mobile you operate the website theough left and right swiping.
+- On desktop you can interface via buttons.
